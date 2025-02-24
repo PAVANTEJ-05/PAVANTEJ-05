@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pavantej</h1>
-<h3 align="center">A passionate Web3 developer from India</h3>
+<h3 align="center">A passionate Blockchain developer from India</h3>
 
 - 📫 How to reach me **nptpavantej79@gmail.com**
 

@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pavantej</h1>
 <h3 align="center">A passionate Blockchain developer from India</h3>
+<p align="left"> <a href="https://twitter.com/nayinitej39178" target="blank"><img src="https://img.shields.io/twitter/follow/nayinitej39178?logo=twitter&style=for-the-badge" alt="nayinitej39178" /></a> </p>
+
+- 🔭 I’m currently working on **Ethereum Protocol Fellowship**
+
+- 🌱 I’m currently learning **Ethereum core protocol, Advanced Solidity**
 
 - 📫 How to reach me **nptpavantej79@gmail.com**
 
@@ -24,13 +29,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="40">
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
@@ -45,8 +50,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
+ <img src="https://skillicons.dev/icons?i=github"/></div>
 
 ###
 

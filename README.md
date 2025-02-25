@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pavantej</h1>
-<h3 align="center">A passionate Blockchain developer from India</h3>
+<h3 align="center">Building Web3 with Passion and Code</h3>
 <p align="left"> <a href="https://twitter.com/nayinitej39178" target="blank"><img src="https://img.shields.io/twitter/follow/nayinitej39178?logo=twitter&style=for-the-badge" alt="nayinitej39178" /></a> </p>
 
 - 🔭 I’m currently working on **Ethereum Protocol Fellowship**

@@ -50,7 +50,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
- <img src="https://skillicons.dev/icons?i=github,ubuntu"/></div>
+ <img src="https://skillicons.dev/icons?i=github,ubuntu,md"/></div>
 
 ###
 

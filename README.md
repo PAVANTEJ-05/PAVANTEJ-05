@@ -2,9 +2,7 @@
 <h3 align="center">Building Web3 with Passion and Code</h3>
 <p align="left"> <a href="https://twitter.com/nayinitej39178" target="blank"><img src="https://img.shields.io/twitter/follow/nayinitej39178?logo=twitter&style=for-the-badge" alt="nayinitej39178" /></a> </p>
 
-- 🔭 I’m currently working on **Ethereum Protocol Fellowship**
-
-- 🌱 I’m currently learning **Ethereum core protocol, Advanced Solidity**
+- 🌱 I’m currently learning **Ethereum core protocol, Ethereum devops**
 
 - 📫 How to reach me **nptpavantej79@gmail.com**
 
